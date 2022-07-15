@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Adopted some ideas with which I will now start:
+
+- 🌱 I’m currently learning React
+- 🤔 I’m not looking for help
+- 💬 Ask me about anything you want
+- 📫 How to reach me: holos.tris@gmail.com
+- 😄 Pronouns: Tris/Tris'
+- ⚡ Fun fact: I wrote this README longer than you might think
+
+![Codewars rank](https://www.codewars.com/users/Holos%20Tris/badges/large)
+
 <!--
 **HolosTris/HolosTris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
