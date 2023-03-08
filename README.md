@@ -2,7 +2,7 @@
 
 Adopted some ideas with which I will now start:
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning how not to be fucked up
 - 🤔 I’m not looking for help
 - 💬 Ask me about anything you want
 - 📫 How to reach me: holos.tris@gmail.com
